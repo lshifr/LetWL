@@ -1,4 +1,4 @@
-BeginPackage["LetWL`Private"]
+BeginPackage["LetWL`Private`"]
 
 $projectURL = "https://github.com/lshifr/LetWL/archive/master.zip"
 

@@ -1,4 +1,6 @@
-BeginPackage["LetWL`Private`"]
+BeginPackage["LetWL`"]
+
+Begin["`Private`"]
 
 $projectURL = "https://github.com/lshifr/LetWL/archive/master.zip"
 
@@ -30,5 +32,7 @@ Replace[
             ]
     }
 ]
+
+End[]
 
 Block[{$ContextPath}, EndPackage[]]
